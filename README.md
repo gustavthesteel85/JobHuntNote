@@ -1,2 +1,2 @@
-# Personal_Development
-個人開発
+# JobHuntNote(就職・転職活動管理Webアプリ)
+
